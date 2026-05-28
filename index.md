@@ -4,7 +4,7 @@ title: Fitness Track
 
 # Fitness Track
 
-[SHORT DESCRIPTION]
+Fitness Track helps you record workouts, track activity, and view your fitness progress over time.
 
 ## Support
 
@@ -22,6 +22,6 @@ Learn how Fitness Track handles data:
 
 For questions, contact:
 
-[SUPPORT EMAIL]
+trailmarkworks@gmail.com 
 
-© 2026 [YOUR NAME OR BUSINESS NAME]. All rights reserved.
+© 2026 Trailmark Works. All rights reserved.
